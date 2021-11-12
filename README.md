@@ -58,7 +58,19 @@ RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR:
 
 ![](https://github.com/Diego-Laz/Laboratorio1/blob/main/tabla%202.png)
 
-VIDEO:
+VIDEOS:
+
+Medicion de voltaje y corriente
+
+https://www.youtube.com/watch?v=Vl8K-CSmj6U
+
+Calculo de voltaje en las resistencias 
+
+https://www.youtube.com/watch?v=_TBXAQix1kE
+
+Calculo de circuitos 
+
+https://www.youtube.com/watch?v=_4sX7BYemP0
 
 CONCLUSIONES:
 
