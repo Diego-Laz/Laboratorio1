@@ -77,6 +77,7 @@ CONCLUSIONES:
 -Los valores de el voltaje y corriente obtenidos por las  leyes de Kirchhoff son bastante aproximados a los valores experimentales. 
 -Para medir los valores de voltaje experimentalmente se coloca el multimetro en paralelo al componente que va a ser medido.
 -Para medir la corriente de manera experimental se debe colocar el multimetro en serie en el circuito.
+
 BIBLIOGRAFÍA:
 
 Mecafenix, I. (2020, 22 junio). Ley de voltaje de Kirchhoff. Ingeniería Mecafenix. Recuperado 11 de noviembre de 2021, de https://www.ingmecafenix.com/electronica/ley-de-voltaje-de-kirchhoff/
