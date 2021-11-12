@@ -54,6 +54,10 @@ RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR:
 
 ![](https://github.com/Diego-Laz/Laboratorio1/blob/main/Tabla_1.png)
 
+![](https://github.com/Diego-Laz/Laboratorio1/blob/main/0002.png) 
+
+![]()
+
 VIDEO:
 
 CONCLUSIONES:
