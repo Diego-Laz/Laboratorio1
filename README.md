@@ -23,6 +23,24 @@ MARCO TEÓRICO:
 
 EXPLICACIÓN DEL PROCEDIMIENTO:
 
+Para empezar a realizar el circuito en tinkercad debemos extraer de la barra de componentes lo que necesitemos que en este caso es:
+-Fuente de Voltaje de C.D.
+-Multimetro digital
+-1 Resistor de 1 kΩ
+-2 Resistores de 2.2 kΩ
+-1 Resistor de 1.8 kΩ
+-1 Resistor de 3.9 kΩ
+-1 Protoboard
+
+-Establecemos el valor del voltaje que la fuente nos va a brindar, en este caso 10V
+-Alimentamos el protoboard con la fuente
+-Siguiedo el diagrama, empezaremos a armar el circuito 
+![]
+-luego de armar el circuito se dara click en el boton de iniciar simulacion 
+![]
+-se procedera a medir los valores de la corriente y el voltaje
+![]
+
 ![](https://github.com/Diego-Laz/Laboratorio1/blob/main/circuito.png)
 
 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR:
