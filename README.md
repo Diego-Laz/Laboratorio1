@@ -34,14 +34,19 @@ Para empezar a realizar el circuito en tinkercad debemos extraer de la barra de 
 
 -Establecemos el valor del voltaje que la fuente nos va a brindar, en este caso 10V
 -Alimentamos el protoboard con la fuente
--Siguiedo el diagrama, empezaremos a armar el circuito 
-![]
--luego de armar el circuito se dara click en el boton de iniciar simulacion 
-![]
--se procedera a medir los valores de la corriente y el voltaje
-![]
+-Siguiendo el diagrama, empezaremos a armar el circuito 
 
-![](https://github.com/Diego-Laz/Laboratorio1/blob/main/circuito.png)
+![](https://github.com/Diego-Laz/Laboratorio1/blob/main/diagrama.png)
+
+-luego de armar el circuito se dara click en el boton de iniciar simulacion 
+
+![](https://github.com/Diego-Laz/Laboratorio1/blob/main/circuito%20simulado.png)
+
+-se procedera a medir los valores de la corriente y el voltaje
+
+![](https://github.com/Diego-Laz/Laboratorio1/blob/main/circuito%20simulado%20voltaje.png)
+
+![](https://github.com/Diego-Laz/Laboratorio1/blob/main/circuito%20simulado%20corriente.png)
 
 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR:
 
