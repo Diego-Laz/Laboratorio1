@@ -1,7 +1,7 @@
 # Universidad De Las Fuerzas Armadas "ESPE"
 
 # Fundamentos de Circuitos Eléctricos 
-# NRC:10149
+# NRC:10151
 # Laboratorio 1
 
  # Integrantes:
@@ -24,6 +24,7 @@ MARCO TEÓRICO:
 EXPLICACIÓN DEL PROCEDIMIENTO:
 
 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR:
+![]
 
 VIDEO:
 
