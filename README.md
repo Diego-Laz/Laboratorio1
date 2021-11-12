@@ -30,3 +30,7 @@ VIDEO:
 CONCLUSIONES:
 
 BIBLIOGRAFÍA:
+
+Mecafenix, I. (2020, 22 junio). Ley de voltaje de Kirchhoff. Ingeniería Mecafenix. Recuperado 11 de noviembre de 2021, de https://www.ingmecafenix.com/electronica/ley-de-voltaje-de-kirchhoff/
+
+A. (2019, 15 abril). Leyes de Kirchhoff: Ley de corriente y ley de voltaje. Explicacion .Net. Recuperado 11 de noviembre de 2021, de https://www.explicacion.net/leyes-de-kirchhoff/
